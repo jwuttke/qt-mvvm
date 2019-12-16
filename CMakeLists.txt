@@ -13,6 +13,6 @@ include(configuration)
 
 add_subdirectory(source)
 add_subdirectory(examples)
-add_subdirectory(thirdparty/gtest-1.8.0)
-add_subdirectory(thirdparty/qcustomplot)
+add_subdirectory(3rdparty/gtest-1.8.0)
+add_subdirectory(3rdparty/qcustomplot)
 add_subdirectory(tests)
