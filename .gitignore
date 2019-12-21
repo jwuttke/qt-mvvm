@@ -1,0 +1,11 @@
+*~
+
+*.pro
+*.*.user
+html/
+*.tmp
+*.log
+
+build
+debug
+qbuild
